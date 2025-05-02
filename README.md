@@ -43,6 +43,3 @@ Below are some screenshots of the website.
 3. Run `npm start` to start the application.
 4. Open `http://localhost:3000` in your browser to view the website.
 
-
-Thank you! 🤍
-– Nigar Safarova
