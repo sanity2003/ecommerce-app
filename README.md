@@ -32,7 +32,7 @@ You can see a live demo of this project [here](https://ecommerce-shop-react-app.
 
 Below are some screenshots of the website.
 
-![Home ](/src/img/home.png)
+![Home Page](/src/img/home.png)
 
 ![Cart/Sidebar](/src/img/cart.png)
 
