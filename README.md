@@ -1,38 +1,40 @@
-# E-commerce Shopping Website with FakeStore Api
+# E-commerce React App Using Fkaestore API
 
-This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
+This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. Product data is fetched from the Fake Store API, and app-wide state is handled through React’s Context API.
 
 ## Table of Contents
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
+- [What's Inside](#What's Inside)
+- [Preview](#Preview)
+- [Tech Stack](#Tech Stack)
+- [Getting Started](#Getting Started)
 
-## Features
+## What's Inside
 
-- `Home page` displays the `featured products`, which are fetched from the **Fake Store API**. Each product card displays the product image, name, and price.
-- `Product Details` page showing a detailed view of the selected product, including an image, title, description and price.
-- `Cart` page displaying the added products, quantities and total price. The user can **add or remove products** from the cart, and the cart will update accordingly.
-- Fully `responsive design` that can adapt to different screen sizes and devices.
+- `Landing Page` displays a list of highlighted products sourced from the Fake Store API. Each product card includes an image, name, and pricing details
+- `Product Details` View provides extended information on a selected product, including its title, image, description, and price.
+- `Cart Page` enables users to view all selected items, adjust quantities, and see the total cost in real time. Products can be added or removed easily.
+-  `Mobile-First Design` ensures a smooth experience across phones, tablets, and desktops.
+
 
 ## Tech Stack
 
-- **React**: A JavaScript library for building user interfaces
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
-- **Fake Store API**: A free API for testing and prototyping e-commerce websites
-- **Context API**: A React API for managing global state in an application.
+- **React**: Frontend library for building reusable UI components.
+- **Tailwind CSS**: Utility-first styling for rapid development.
+- **Fake Store API**:Offers mock product data for frontend prototyping.
+- **Context API**:  Manages global app state (like the cart and product data).
 
-## Screenshots
 
-Below are some screenshots of the website.
+
+## Preview
+
+Here are some screenshots of the application in action:
 
 
 ![Cart/Sidebar](/src/img/cart.png)
 
-## Installation and Setup
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory and run `npm install` to install all dependencies.
-3. Run `npm start` to start the application.
-4. Open `http://localhost:3000` in your browser to view the website.
-
+## Getting Started
+1. To run the project locally, follow these steps:
+Clone this repository to your local environment.
+2. Open your terminal and run npm install in the project directory to install dependencies.
+3. Start the development server using npm start.
+4. Open http://localhost:3000 in your web browser to use the app.
