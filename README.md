@@ -1,12 +1,12 @@
-# E-commerce React App Using Fkaestore API
+# E-commerce React App Using Fakestore API
 
 This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. Product data is fetched from the Fake Store API, and app-wide state is handled through React’s Context API.
 
 ## Table of Contents
-- [What's Inside](#What's Inside)
+- [What's Inside](#What'sInside)
 - [Preview](#Preview)
-- [Tech Stack](#Tech Stack)
-- [Getting Started](#Getting Started)
+- [Tech Stack](#TechStack)
+- [Getting Started](#GettingStarted)
 
 ## What's Inside
 
